@@ -3,10 +3,10 @@ import React from "react";
 const Introduction = () => {
   return (
     <>
-      <section className="my-48 flex justify-center">
+      <section id="Home" className="mt-12 mb-28 p-32  flex justify-center">
         <img
           src="src/assets/imgs/myPhoto.jpg"
-          className="h-96 w-74 mx-8 border-2 border-solid rounded border-black"
+          className="h-96 w-74 mx-8 border-2 border-solid rounded-lg border-black"
         />
         <div>
           <h2 className="font-bold">Hi, my name is Werner!</h2>

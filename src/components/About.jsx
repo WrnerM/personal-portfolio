@@ -3,7 +3,10 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <section className="flex justify-center my-40 bg-slate-300 p-28">
+      <section
+        id="About"
+        className="flex justify-center mt-10 mb-40 bg-slate-300 p-28"
+      >
         <img
           src="src/assets/imgs/developerStockPhoto.jpg"
           className="h-96 ml-32"
