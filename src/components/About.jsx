@@ -9,7 +9,7 @@ const About = () => {
       >
         <img
           src="src/assets/imgs/developerStockPhoto.jpg"
-          className="h-96 ml-32"
+          className="h-96 ml-32 border-solid border-black rounded-lg border-2"
         ></img>
 
         <div className="mx-32">
