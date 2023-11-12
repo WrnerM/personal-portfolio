@@ -12,13 +12,16 @@ const Introduction = () => {
           <h2 className="font-bold">Hi, my name is Werner!</h2>
           <p>An enthusiastic developer based in Manila, Philippines</p>
           <span className="flex justify-center">
-            <a href="https://www.linkedin.com/in/werner-montala/">
+            <a
+              href="https://www.linkedin.com/in/werner-montala/"
+              target="_blank"
+            >
               <img
                 src="src/assets/imgs/Linkedin.png"
                 className="w-8 h-8 border-black rounded"
               />
             </a>
-            <a href="https://github.com/WrnerM">
+            <a href="https://github.com/WrnerM" target="_blank">
               <img
                 src="src/assets/imgs/GitHub-Mark.png"
                 className="w-8 h-8 border-2 border-black rounded"
