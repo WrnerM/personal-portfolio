@@ -2,10 +2,10 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <div>
-      Projects:
+    <section className="flex justify-center">
+      <p>Projects:</p>
       <p>Coming Soon!</p>
-    </div>
+    </section>
   );
 };
 
