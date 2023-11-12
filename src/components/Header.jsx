@@ -19,10 +19,10 @@ const Header = () => {
             <a href="#About">About</a>
           </li>
           <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150">
-            Projects
+            <a href="#Projects">Projects</a>
           </li>
           <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150">
-            Contact
+            <a href="#Contact">Contact</a>
           </li>
         </ul>
       </header>

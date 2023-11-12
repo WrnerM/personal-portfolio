@@ -2,7 +2,7 @@ import React from "react";
 
 const Projects = () => {
   return (
-    <section className="flex justify-center">
+    <section id="Projects" className="flex justify-center mt-10 p-28">
       <p>Projects:</p>
       <p>Coming Soon!</p>
     </section>
