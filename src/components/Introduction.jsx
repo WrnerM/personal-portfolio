@@ -18,13 +18,13 @@ const Introduction = () => {
             >
               <img
                 src="src/assets/imgs/Linkedin.png"
-                className="w-8 h-8 border-black rounded"
+                className="w-8 h-8 border-black rounded hover:scale-125 transition duration-500 cursor-pointer"
               />
             </a>
             <a href="https://github.com/WrnerM" target="_blank">
               <img
                 src="src/assets/imgs/GitHub-Mark.png"
-                className="w-8 h-8 border-2 border-black rounded"
+                className="w-8 h-8 border-2 border-black rounded hover:scale-125 transition duration-500 cursor-pointer"
               />
             </a>
           </span>{" "}

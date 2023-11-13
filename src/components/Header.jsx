@@ -12,16 +12,16 @@ const Header = () => {
       >
         <h1 className="mx-12 py-5">Werner.dev</h1>
         <ul className="flex mx-12 py-5">
-          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150 hover:drop-shadow-2xl ">
+          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150 hover:drop-shadow-2xl hover:scale-125 transition duration-500 cursor-pointer">
             <a href="#Home">Home</a>
           </li>
-          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150">
+          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150 hover:scale-125 transition duration-500 cursor-pointer">
             <a href="#About">About</a>
           </li>
-          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150">
+          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150 hover:scale-125 transition duration-500 cursor-pointer">
             <a href="#Projects">Projects</a>
           </li>
-          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150">
+          <li className="mx-6 hover:text-blue-600 hover:duration-300 delay-150 hover:scale-125 transition duration-500 cursor-pointer">
             <a href="#Contact">Contact</a>
           </li>
         </ul>

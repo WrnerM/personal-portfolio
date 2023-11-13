@@ -5,7 +5,7 @@ const About = () => {
     <>
       <section
         id="About"
-        className="flex justify-center mt-10 mb-40 bg-slate-300 p-28"
+        className="flex justify-center mt-10 mb-40 bg-slate-300 p-28 "
       >
         <img
           src="src/assets/imgs/developerStockPhoto.jpg"
@@ -13,7 +13,7 @@ const About = () => {
         ></img>
 
         <div className="mx-32">
-          <h1 className="text-2xl">About Me:</h1>
+          <h1 className="text-2xl text-sky-600">About Me:</h1>
           <h2 className="text-4xl">
             Front-end Developer based in Quezon City, Philippines
             <img
