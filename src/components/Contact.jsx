@@ -3,11 +3,14 @@ import React from "react";
 const Contact = () => {
   return (
     <>
-      <section id="Contact" className="grid mt-10 bg-slate-300 p-28 ">
-        <h2 className="text-sky-600 font-mono text-2xl font-semibold">
+      <section
+        id="Contact"
+        className="grid grid-cols-3 gap-4 mt-10 bg-slate-300 p-28 "
+      >
+        <h2 className="text-sky-600 font-mono text-3xl font-semibold flex justify-end">
           Let's Connect!
         </h2>
-        <span className="mx-4 text-2xl animate-bounce"> 👇 </span>
+        <span className="text-3xl animate-bounce col-span-2"> 👇 </span>
         {/* <p className="w-2/3">
           I'm open to exciting opportunities and collaborations. Feel free to
           get in touch with me via email at YourEmail@example.com. Connect with
