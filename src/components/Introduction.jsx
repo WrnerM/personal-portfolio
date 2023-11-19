@@ -21,17 +21,17 @@ const Introduction = () => {
                 target="_blank"
               >
                 <img
-                  src="src/assets/imgs/Linkedin.png"
-                  className="w-8 h-8 border-black rounded hover:scale-125 transition duration-500 cursor-pointer"
+                  src="src/assets/imgs/linkedinLogo.png"
+                  className="w-10 h-8 border-black rounded hover:scale-125 transition duration-500 cursor-pointer"
                 />
               </a>
               <a href="https://github.com/WrnerM" target="_blank">
                 <img
                   src="src/assets/imgs/GitHub-Mark.png"
-                  className="w-8 h-8 border-2 border-black rounded hover:scale-125 transition duration-500 cursor-pointer"
+                  className="w-8 h-8 border-black rounded hover:scale-125 transition duration-500 cursor-pointer"
                 />
               </a>
-            </span>{" "}
+            </span>
             <p>Tech Stack:</p>
             <span className="flex justify-between">
               <img className="h-16 w-16" src="src/assets/imgs/html.png"></img>
