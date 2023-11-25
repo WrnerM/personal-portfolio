@@ -18,8 +18,8 @@ const Contact = () => {
           https://www.linkedin.com/in/werner-montala/. For a more in-depth look
           at my coding projects, you can find me on GitHub:
           https://github.com/WrnerM. Whether you have a specific project in
-          mind, want to discuss potential opportunities, or just want to chat
-          about all things tech, I'd love to hear from you!
+          mind, want to discuss potential opportunities, I'd love to hear from
+          you!
         </p>
       </section>
     </>
