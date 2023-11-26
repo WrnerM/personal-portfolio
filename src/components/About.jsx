@@ -13,7 +13,9 @@ const About = () => {
         ></img>
 
         <div className="mx-32">
-          <h1 className="text-2xl text-sky-600">About Me:</h1>
+          <h1 className="font-semibold text-3xl font-mono text-sky-600">
+            About Me:
+          </h1>
           <h2 className="text-4xl">
             Front-end Developer based in Quezon City, Philippines
             <img
