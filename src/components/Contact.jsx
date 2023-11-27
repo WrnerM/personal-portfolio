@@ -12,7 +12,7 @@ const Contact = () => {
         </h2>
         <span className="text-3xl animate-bounce col-span-2"> 👇 </span>
         <p className="mx-40 col-span-3">
-          I'm open to exciting opportunities and collaborations. Feel free to
+          I am open to exciting opportunities and collaborations. Feel free to
           get in touch with me via email at wrnermontala@gmail.com. Connect with
           me on LinkedIn to stay updated on my professional journey:
           https://www.linkedin.com/in/werner-montala/. For a more in-depth look
