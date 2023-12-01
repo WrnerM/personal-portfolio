@@ -26,14 +26,15 @@ const About = () => {
           <br />
           <p>
             Hello, my name is Werner! You can call me Werns for short. I like
-            going to the gym, reading many things, playing games, and talking to
-            people. I'm a passionate junior front-end developer specializing in
-            HTML, CSS, JavaScript, Tailwind CSS, and React. My journey in web
-            development is driven by my love of reading, creating things, and
-            being curious about how the web works, which led to me building web
-            applications. Eager to collaborate, learn, and contribute to
-            innovative projects, I bring a blend of technical skills and a
-            creative mindset to the dynamic world of front-end development.
+            going to the gym, reading, playing computer games, and I am also a
+            DIY enthusiast. I'm a passionate junior front-end developer
+            specializing in HTML, CSS, JavaScript, Tailwind CSS, and React. My
+            journey in web development is driven by my love of reading, creating
+            things, and being curious about how the web works, which led to me
+            building web applications. Eager to collaborate, learn, and
+            contribute to innovative projects, I bring a blend of technical
+            skills and a creative mindset to the dynamic world of front-end
+            development.
           </p>
         </div>
       </section>
