@@ -41,6 +41,40 @@ const Contact = () => {
           . Whether you have a specific project in mind, want to discuss
           potential opportunities, I'd love to hear from you!
         </p>
+        <div className="col-span-3 flex justify-between">
+          <a className="m-6 pr-6 hover:shadow-xl shadow-inner bg-white rounded flex justify-center hover:scale-125 transition duration-500 cursor-pointer">
+            <img
+              src="src/assets/imgs/emailLogo.png"
+              className="w-18 h-14 rounded"
+            />
+            <span className="w-full h-14 ml-4 py-3 text-l rounded">
+              wrnermontala@gmail.com
+            </span>
+          </a>
+          <a
+            target="_blank"
+            className="m-6 px-6 hover:shadow-xl shadow-inner bg-white rounded flex justify-center hover:scale-125 transition duration-500 cursor-pointer"
+            href="https://github.com/WrnerM"
+          >
+            <img
+              src="src/assets/imgs/GitHub-Mark.png"
+              className="w-14 h-14 rounded"
+            />
+            <span className="w-1/2 h-14 ml-4 py-3 text-xl rounded">Github</span>
+          </a>
+          <a
+            target="_blank"
+            className="m-6 px-6 hover:shadow-xl shadow-inner bg-white rounded mr-14 flex justify-center hover:scale-125 transition duration-500 cursor-pointer"
+          >
+            <img
+              src="src/assets/imgs/linkedinLogo.png"
+              className="w-18 h-14 rounded"
+            />
+            <span className="w-1/2 h-14 ml-4 py-3 text-xl rounded">
+              Linkedin
+            </span>
+          </a>
+        </div>
       </section>
     </>
   );
