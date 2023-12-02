@@ -42,7 +42,7 @@ const Contact = () => {
           potential opportunities, I'd love to hear from you!
         </p>
         <div className="col-span-3 flex justify-between">
-          <a className="m-6 pr-6 hover:shadow-xl shadow-inner bg-white rounded flex justify-center hover:scale-125 transition duration-500 cursor-pointer">
+          <a className="m-6 pr-6 hover:border-zinc-500 border-2 hover:shadow-xl shadow-inner bg-white rounded flex justify-center hover:scale-125 transition duration-500 cursor-pointer">
             <img
               src="src/assets/imgs/emailLogo.png"
               className="w-18 h-14 rounded"
@@ -53,7 +53,7 @@ const Contact = () => {
           </a>
           <a
             target="_blank"
-            className="m-6 px-6 hover:shadow-xl shadow-inner bg-white rounded flex justify-center hover:scale-125 transition duration-500 cursor-pointer"
+            className="m-6 px-6 hover:border-zinc-500 border-2 hover:shadow-xl shadow-inner bg-white rounded flex justify-center hover:scale-125 transition duration-500 cursor-pointer"
             href="https://github.com/WrnerM"
           >
             <img
@@ -64,7 +64,7 @@ const Contact = () => {
           </a>
           <a
             target="_blank"
-            className="m-6 px-6 hover:shadow-xl shadow-inner bg-white rounded mr-14 flex justify-center hover:scale-125 transition duration-500 cursor-pointer"
+            className="m-6 px-6 hover:border-zinc-500 border-2 hover:shadow-xl shadow-inner bg-white rounded mr-14 flex justify-center hover:scale-125 transition duration-500 cursor-pointer"
             href="https://www.linkedin.com/in/werner-montala/"
           >
             <img
