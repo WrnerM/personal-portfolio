@@ -12,11 +12,11 @@ const Introduction = () => {
           className="h-96 w-74 mx-8 border-2 border-solid rounded-lg border-black"
         />
         <div className="mx-12 p-8 items-center space-y-4">
-          <h2 className="font-semibold text-3xl font-mono text-sky-600">
+          <h2 className="font-semibold text-3xl font-mono text-sky-600 ">
             Hi, my name is Werner!
           </h2>
           <p>An enthusiastic developer based in Manila, Philippines</p>
-          <div className="space-y-4">
+          <div className="space-y-10">
             <span className="flex justify-center">
               <a
                 href="https://www.linkedin.com/in/werner-montala/"
@@ -34,17 +34,31 @@ const Introduction = () => {
                 />
               </a>
             </span>
-            <p>Tech Stack:</p>
+            <p className="">Tech Stack</p>
             <span className="flex justify-between">
-              <img className="h-16 w-16" src="src/assets/imgs/html.png"></img>
-              <img className="h-16 w-16" src="src/assets/imgs/css.png"></img>
               <img
-                className="h-16 w-16"
+                title="HTML"
+                className="h-16 w-16 transition-transform transform hover:-translate-y-3"
+                src="src/assets/imgs/html.png"
+              ></img>
+              <img
+                title="CSS"
+                className="h-16 w-16 transition-transform transform hover:-translate-y-3"
+                src="src/assets/imgs/css.png"
+              ></img>
+              <img
+                title="JavaScript"
+                className="h-16 w-16 transition-transform transform hover:-translate-y-3"
                 src="src/assets/imgs/javascript.png"
               ></img>
-              <img className="h-16 w-16" src="src/assets/imgs/react.png"></img>
               <img
-                className="h-16 w-16"
+                title="React"
+                className="h-16 w-16 transition-transform transform hover:-translate-y-3"
+                src="src/assets/imgs/react.png"
+              ></img>
+              <img
+                title="Tailwind"
+                className="h-16 w-16 transition-transform transform hover:-translate-y-3"
                 src="src/assets/imgs/tailwind.jpg"
               ></img>
             </span>
